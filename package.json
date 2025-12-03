@@ -1,6 +1,6 @@
 {
   "name": "frontend-production-dockerfiles",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Production-ready Dockerfiles for React.js, Angular, Vue.js, and Next.js. Optimized for performance, security, and minimal image size. ",
   "main": "src/index.ts",
   "scripts": {
